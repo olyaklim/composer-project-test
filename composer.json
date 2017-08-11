@@ -1,0 +1,19 @@
+{
+    "name": "olya/compos",
+    "minimum-stability": "dev",
+    "description": "get_date_test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olga Shevchenko",
+            "email": "olga.app2@gmail.com",
+            "role": "Developer"
+        }
+    ],
+	
+	 "require": {
+		"php": ">=5.6",
+        "olyaklim/composgetdate": "dev-master"
+    }
+	
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "olyaklim/composgetdate",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/olyaklim/composgetdate.git",
+            "reference": "3d9e90abe40ce30103e431685c92fc90a8dc0aaa"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/olyaklim/composgetdate/zipball/3d9e90abe40ce30103e431685c92fc90a8dc0aaa",
+            "reference": "3d9e90abe40ce30103e431685c92fc90a8dc0aaa",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.6"
+        },
+        "time": "2017-08-11T12:15:43+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Olyaklim\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Olga Shevchenko",
+                "email": "olga.app2@gmail.com",
+                "role": "Developer"
+            }
+        ],
+        "description": "getdate",
+        "homepage": "https://github.com/olyaklim",
+        "keywords": [
+            "currency",
+            "getdate",
+            "math"
+        ]
+    }
+]
